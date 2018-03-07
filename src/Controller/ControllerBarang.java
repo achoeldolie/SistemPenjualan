@@ -1,7 +1,7 @@
 
 package Controller;
 
-//testf
+//testf as fda
 import Dao.DaoBarang;
 import Dao.DaoKategoriBarang;
 import Helper.AutoNumber;
